@@ -13,7 +13,7 @@
 		<drools.version>5.5.0-SNAPSHOT</drools.version>
 		<jbpm.version>5.4.0-SNAPSHOT</jbpm.version>
 		<hibernate.version>3.4.0.GA</hibernate.version>
-		<hibernate.core.version>3.3.2.GA</hibernate.core.version>
+		<hibernate.core.version>5.3.20.Final</hibernate.core.version>
 		<cxf.version>2.4.4</cxf.version>
 	</properties>
 	<dependencies>
